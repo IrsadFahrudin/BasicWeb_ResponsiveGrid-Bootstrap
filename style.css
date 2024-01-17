@@ -1,0 +1,12 @@
+#services img {
+    height: 150px;
+}
+
+.card-body p {
+    color: lightslategray;
+    font-size: 12px;
+}
+.col-md a {
+ 
+    font-size: 14px;
+}
